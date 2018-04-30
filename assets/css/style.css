@@ -5,7 +5,7 @@ body {
 
 body {
   text-align: center;
-  background-image: url("../images/tacky.jpg");
+  background-image: url("../images/Arcade.jpg");
 }
 
 #wrapper {
@@ -13,7 +13,7 @@ body {
   height: 95%;
   box-sizing: border-box;
   margin: 2.5% auto;
-  background-color: #fff17a;
+  background-color: #a1beed;
 }
 
 #sub-wrapper {
@@ -41,7 +41,7 @@ h1 {
   font-family: Geo, sans-serif;
   font-size: 6.5em;
   font-weight: bold;
-  color: blue;
+  color: yellow;
 }
 
 h2 {
@@ -56,11 +56,11 @@ h3 {
 
 #start {
   margin-top: 10%;
-  background: pink;
+  background: white;
   border: 2px solid blue;
 }
 
 button:hover {
-  background: pink;
+  background: white;
   border: 2px solid blue;
 }

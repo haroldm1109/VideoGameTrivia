@@ -7,17 +7,27 @@ var questions = [{
   question: "Who does Bowser capture in Super Mario Bros.?",
   answers: ["Daisy", "Peach", "Pauline", "Birdo"],
   correctAnswer: "Peach",
-  image: "assets/images/"
+  image: "assets/images/Peach.jpg"
 }, {
   question: "What is chasing Mappy in the arcade game Mappy?",
   answers: ["Lizards", "Cats", "Dogs", "Birds"],
   correctAnswer: "Cats",
   image: "assets/images/new mappy.jpg"
 }, {
-  question: "Which NBA team won the most titles in the 90s?",
-  answers: ["New York Knicks", "Portland Trailblazers", "Los Angeles Lakers", "Chicago Bulls"],
-  correctAnswer: "Chicago Bulls",
-  image: "assets/images/"
+  question: "What is the last level in Pac-Man?",
+  answers: ["250", "251", "255", "256"],
+  correctAnswer: "256",
+  image: "assets/images/Pac-man 256.gif"
+}, {
+  question: "Who is the bad guy in the Sonic Games?",
+  answers: ["Tails", "Doctor Eggman", "Knuckles", "Shadow"],
+  correctAnswer: "Doctor Eggman",
+  image: "assets/images/eggman.jpg"
+},{
+  question: "Who is the bad guy in Legend of Zelda?",
+  answers: ["Ganon", "Bowser", "Link", "Samus"],
+  correctAnswer: "Ganon",
+  image: "assets/images/Ganon.png"
 }];
 
 // Variable to hold our setInterval
